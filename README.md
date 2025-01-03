@@ -110,7 +110,7 @@
 
 <section id="about" class="section">
     <h2 data-lang data-lang-en="About Us" data-lang-fr="À Propos" data-lang-es="Sobre Nosotros">About Us</h2>
-    <p data-lang data-lang-en="A team with real corporate work experience in Canada, France, Spain, Argentina, Switzerland, Chile, Colombia and other countries, we can provide world class accounting, financial and bookeeping services at competitive rates."
+    <p data-lang data-lang-en="A team with real corporate work experience in Canada, France, Spain, Argentina, Switzerland, Chile, Colombia and other countries, we can provide world class accounting, financial and bookeeping services at competitive rates. We can also help you with your documents on multiple languages, with original documentation needed from other countries or with other services to business planning to start operations in Argentina."
        data-lang-fr="Nous fournissons des services professionnels de premier ordre pour aider les individus et les entreprises à réussir à l'étranger. Notre expertise couvre plusieurs domaines, vous garantissant les meilleures solutions adaptées à vos besoins."
        data-lang-es="Ofrecemos servicios profesionales de primer nivel para ayudar a individuos y empresas a tener éxito en el extranjero. Nuestra experiencia abarca múltiples áreas, asegurando que obtenga las mejores soluciones adaptadas a sus necesidades.">
         We provide top-notch professional services to help individuals and businesses succeed abroad. Our expertise spans multiple domains, ensuring you get the best solutions tailored to your needs.
@@ -121,8 +121,8 @@
     <h2 data-lang data-lang-en="Our Services" data-lang-fr="Nos Services" data-lang-es="Nuestros Servicios">Our Services</h2>
     <div class="services">
         <div class="service-card">
-            <h3 data-lang data-lang-en="Immigration Assistance" data-lang-fr="Assistance en Immigration" data-lang-es="Asistencia Migratoria">Immigration Assistance</h3>
-            <p data-lang data-lang-en="We guide you through immigration processes with ease."
+            <h3 data-lang data-lang-en="Citizenship Assistance" data-lang-fr="Assistance en Immigration" data-lang-es="Asistencia Migratoria">Immigration Assistance</h3>
+            <p data-lang data-lang-en="We can help you obtain the original documentation of your ancestor immigrant from Spain, Italy or France"
                data-lang-fr="Nous vous guidons dans les processus d'immigration en toute simplicité."
                data-lang-es="Le guiamos a través de los procesos de inmigración con facilidad.">
                 We guide you through immigration processes with ease.
