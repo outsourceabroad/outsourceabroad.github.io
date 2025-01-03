@@ -138,7 +138,7 @@
         </div>
         <div class="service-card">
             <h3 data-lang data-lang-en="Translation Services" data-lang-fr="Services de Traduction" data-lang-es="Servicios de Traducción">Translation Services</h3>
-            <p data-lang data-lang-en="Bridge language barriers with professional translations."
+            <p data-lang data-lang-en="We provide translation services between the following languages: English, Spanish, French, Italian and Portuguese"
                data-lang-fr="Surmontez les barrières linguistiques avec des traductions professionnelles."
                data-lang-es="Supere las barreras del idioma con traducciones profesionales.">
                 Bridge language barriers with professional translations.
