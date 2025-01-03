@@ -109,57 +109,57 @@
 </nav>
 
 <section id="about" class="section">
-    <h2 data-lang data-lang-en="About Us" data-lang-fr="À Propos" data-lang-es="Sobre Nosotros">About Us</h2>
-    <p data-lang data-lang-en="A team with real corporate work experience in Canada, France, Spain, Argentina, Switzerland, Chile, Colombia and other countries, we can provide world class accounting, financial and bookeeping services at competitive rates. We can also help you with your documents on multiple languages, with original documentation needed from other countries or with other services to business planning to start operations in Argentina."
-       data-lang-fr="Nous fournissons des services professionnels de premier ordre pour aider les individus et les entreprises à réussir à l'étranger. Notre expertise couvre plusieurs domaines, vous garantissant les meilleures solutions adaptées à vos besoins."
-       data-lang-es="Ofrecemos servicios profesionales de primer nivel para ayudar a individuos y empresas a tener éxito en el extranjero. Nuestra experiencia abarca múltiples áreas, asegurando que obtenga las mejores soluciones adaptadas a sus necesidades.">
-        We provide top-notch professional services to help individuals and businesses succeed abroad. Our expertise spans multiple domains, ensuring you get the best solutions tailored to your needs.
+    <h2 data-lang data-lang-en="About Us" data-lang-fr="À Propos" data-lang-es="Sobre Nosotros">À Propos</h2>
+    <p data-lang data-lang-en="A team with real corporate work experience in Canada, France, Spain, Argentina, Switzerland, Chile, Colombia and other countries, we can provide world class accounting, financial and bookkeeping services at competitive rates. We can also help you with your documents on multiple languages, with original documentation needed from other countries or with other services to business planning to start operations in Argentina."
+       data-lang-fr="Une équipe avec une véritable expérience professionnelle dans des entreprises au Canada, en France, en Espagne, en Argentine, en Suisse, au Chili, en Colombie et dans d'autres pays, nous offrons des services de comptabilité, financiers et de tenue de livres de classe mondiale à des tarifs compétitifs. Nous pouvons également vous aider avec vos documents dans plusieurs langues, avec la documentation originale nécessaire d'autres pays ou avec d'autres services pour planifier les affaires et démarrer des opérations en Argentine."
+       data-lang-es="Un equipo con experiencia real en empresas en Canadá, Francia, España, Argentina, Suiza, Chile, Colombia y otros países, podemos ofrecer servicios de contabilidad, financieros y de gestión contable de clase mundial a tarifas competitivas. También podemos ayudarle con sus documentos en varios idiomas, con la documentación original necesaria de otros países o con otros servicios para planificar negocios y comenzar operaciones en Argentina.">
+        Une équipe avec une véritable expérience professionnelle...
     </p>
 </section>
 
 <section id="services" class="section">
-    <h2 data-lang data-lang-en="Our Services" data-lang-fr="Nos Services" data-lang-es="Nuestros Servicios">Our Services</h2>
+    <h2 data-lang data-lang-en="Our Services" data-lang-fr="Nos Services" data-lang-es="Nuestros Servicios">Nos Services</h2>
     <div class="services">
         <div class="service-card">
-            <h3 data-lang data-lang-en="Citizenship Assistance" data-lang-fr="Assistance en Immigration" data-lang-es="Asistencia Migratoria">Immigration Assistance</h3>
-            <p data-lang data-lang-en="We can help you obtain the original documentation of your ancestor immigrant from Spain, Italy or France"
-               data-lang-fr="Nous vous guidons dans les processus d'immigration en toute simplicité."
-               data-lang-es="Le guiamos a través de los procesos de inmigración con facilidad.">
-                We guide you through immigration processes with ease.
+            <h3 data-lang data-lang-en="Citizenship Assistance" data-lang-fr="Assistance à la Citoyenneté" data-lang-es="Asistencia Ciudadana">Assistance à la Citoyenneté</h3>
+            <p data-lang data-lang-en="We can help you obtain the original documentation of your ancestor immigrant from Spain, Italy or France."
+               data-lang-fr="Nous pouvons vous aider à obtenir la documentation originale de votre ancêtre immigrant d'Espagne, d'Italie ou de France."
+               data-lang-es="Podemos ayudarle a obtener la documentación original de su ancestro inmigrante de España, Italia o Francia.">
+                Nous pouvons vous aider à obtenir...
             </p>
         </div>
         <div class="service-card">
-            <h3 data-lang data-lang-en="Business Consulting" data-lang-fr="Consultation en Affaires" data-lang-es="Consultoría Empresarial">Business Consulting</h3>
+            <h3 data-lang data-lang-en="Business Consulting" data-lang-fr="Consultation en Affaires" data-lang-es="Consultoría Empresarial">Consultation en Affaires</h3>
             <p data-lang data-lang-en="Expand your business overseas with our expert advice."
                data-lang-fr="Développez votre entreprise à l'étranger grâce à nos conseils d'experts."
                data-lang-es="Expanda su negocio en el extranjero con nuestro asesoramiento experto.">
-                Expand your business overseas with our expert advice.
+                Développez votre entreprise à l'étranger...
             </p>
         </div>
         <div class="service-card">
-            <h3 data-lang data-lang-en="Translation Services" data-lang-fr="Services de Traduction" data-lang-es="Servicios de Traducción">Translation Services</h3>
-            <p data-lang data-lang-en="We provide translation services between the following languages: English, Spanish, French, Italian and Portuguese"
-               data-lang-fr="Surmontez les barrières linguistiques avec des traductions professionnelles."
-               data-lang-es="Supere las barreras del idioma con traducciones profesionales.">
-                Bridge language barriers with professional translations.
+            <h3 data-lang data-lang-en="Translation Services" data-lang-fr="Services de Traduction" data-lang-es="Servicios de Traducción">Services de Traduction</h3>
+            <p data-lang data-lang-en="We provide translation services between the following languages: English, Spanish, French, Italian and Portuguese."
+               data-lang-fr="Nous fournissons des services de traduction entre les langues suivantes : anglais, espagnol, français, italien et portugais."
+               data-lang-es="Ofrecemos servicios de traducción entre los siguientes idiomas: inglés, español, francés, italiano y portugués.">
+                Nous fournissons des services de traduction...
             </p>
         </div>
     </div>
 </section>
 
 <section id="contact" class="section">
-    <h2 data-lang data-lang-en="Contact Us" data-lang-fr="Contactez-Nous" data-lang-es="Contáctenos">Contact Us</h2>
+    <h2 data-lang data-lang-en="Contact Us" data-lang-fr="Contactez-Nous" data-lang-es="Contáctenos">Contactez-Nous</h2>
     <form class="contact-form" action="#" method="post">
-        <label for="name" data-lang data-lang-en="Name:" data-lang-fr="Nom:" data-lang-es="Nombre:">Name:</label>
+        <label for="name" data-lang data-lang-en="Name:" data-lang-fr="Nom:" data-lang-es="Nombre:">Nom:</label>
         <input type="text" id="name" name="name" required>
 
-        <label for="email" data-lang data-lang-en="Email:" data-lang-fr="E-mail:" data-lang-es="Correo Electrónico:">Email:</label>
+        <label for="email" data-lang data-lang-en="Email:" data-lang-fr="E-mail:" data-lang-es="Correo Electrónico:">E-mail:</label>
         <input type="email" id="email" name="email" required>
 
         <label for="message" data-lang data-lang-en="Message:" data-lang-fr="Message:" data-lang-es="Mensaje:">Message:</label>
         <textarea id="message" name="message" rows="5" required></textarea>
 
-        <button type="submit" data-lang data-lang-en="Submit" data-lang-fr="Envoyer" data-lang-es="Enviar">Submit</button>
+        <button type="submit" data-lang data-lang-en="Submit" data-lang-fr="Envoyer" data-lang-es="Enviar">Envoyer</button>
     </form>
 </section>
 
